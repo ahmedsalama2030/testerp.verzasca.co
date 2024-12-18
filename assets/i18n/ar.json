@@ -1,0 +1,900 @@
+{
+  "HEADER": {
+    "MORE": {
+      "TEXT": "أكثر"
+    }
+  },
+  "MENUITEMS": {
+    "MENU": {
+      "TEXT": "قائمة"
+    },
+    "DASHBOARD": {
+      "TEXT": "لوحات القيادة",
+      "BADGE": "جديد",
+      "LIST": {
+        "ANALYTICS": "تحليلات",
+        "CRM": "CRM",
+        "ECOMMERCE": "التجارة الإلكترونية",
+        "CRYPTO": "تشفير",
+        "PROJECTS": "المشاريع",
+        "NFT": "NFT",
+        "JOB": "مهنة"
+      }
+    },
+    "APPS": {
+      "TEXT": "تطبيقات",
+      "LIST": {
+        "CALENDAR": "تقويم",
+        "MAINCALENDAR": "التقويم الرئيسي",
+        "MONTHGRID": "شبكة الشهر",
+        "CHAT": "دردشة",
+        "EMAIL": "البريد الإلكتروني",
+        "MAILBOX": "صندوق بريد",
+        "MAILTEMPLATES": "قوالب البريد الإلكتروني",
+        "BASICACTION": "الإجراء الأساسي",
+        "ECOMMERCEACTION": "إجراء التجارة الإلكترونية",
+        "ECOMMERCE": "التجارة الإلكترونية",
+        "PRODUCTS": "منتجات",
+        "PRODUCTDETAILS": "تفاصيل المنتج",
+        "CREATEPRODUCT": "إنشاء منتج",
+        "ORDERS": "الطلب #٪ s",
+        "ORDERDETAILS": "تفاصيل الطلب",
+        "CUSTOMERS": "عملاء",
+        "SHOPPINGCART": "عربة التسوق",
+        "CHECKOUT": "الدفع",
+        "SELLERS": "الباعة",
+        "SELLERDETAILS": "تفاصيل البائع",
+        "PROJECTS": "المشاريع",
+        "LIST": "قائمة",
+        "OVERVIEW": "ملخص",
+        "CREATEPROJECT": "أنشئ مشروعًا",
+        "TASK": "مهام",
+        "KANBANBOARD": "مجلس كانبان",
+        "LISTVIEW": "عرض القائمة",
+        "TASKDETAILS": "تفاصيل المهمة",
+        "CRM": "CRM",
+        "CONTACTS": "جهات الاتصال",
+        "COMPANIES": "شركات",
+        "DEALS": "صفقات",
+        "LEADS": "يؤدي",
+        "CRYPTO": "تشفير",
+        "TRANSACTIONS": "المعاملات",
+        "BUY&SELL": "شراء بيع",
+        "MYWALLET": "محفظتى",
+        "ICOLIST": "قائمة ICO",
+        "KYCAPPLICATION": "تطبيق KYC",
+        "INVOICES": "الفواتير",
+        "DETAILS": "تفاصيل",
+        "CREATEINVOICE": "إنشاء فاتورة",
+        "SUPPORTTICKETS": "تذاكر الدعم الفني",
+        "TICKETDETAILS": "تفاصيل التذكرة",
+        "NFTMARKETPLACE": "سوق NFT",
+        "MARKETPLACE": "المتجر",
+        "EXPLORENOW": "استكشف الآن",
+        "LIVEAUCTION": "المزاد الحي",
+        "ITEMDETAILS": "تفاصيل العنصر",
+        "COLLECTIONS": "المجموعات",
+        "CREATORS": "المبدعين",
+        "RANKING": "تصنيف",
+        "WALLETCONNECT": "Wallet Connect",
+        "CREATENFT": "إنشاء NFT",
+        "FILEMANAGER": "مدير الملفات",
+        "TODO": "لكى يفعل",
+        "JOBS": "وظائف",
+        "STATISTICS": "إحصائيات",
+        "JOBLISTS": "قوائم الوظائف",
+        "GRID": "جريد",
+        "CANDIDATELISTS": "قائمة المرشحين",
+        "GRIDVIEW": "عرض شبكي",
+        "APPLICATION": "طلب",
+        "NEWJOB": "وظيفة جديدة",
+        "COMPANIESLIST": "قائمة الشركات",
+        "JOBCATEGORIES": "فئات الوظائف",
+        "APIKEY": "مفتاح API"
+      }
+    },
+    "LAYOUTS": {
+      "TEXT": "التخطيطات",
+      "LIST": {
+        "HORIZONTAL": "أفقي",
+        "DETACHED": "منفصل",
+        "TWOCOLUMN": "عمودان",
+        "HOVERED": "حلق"
+      }
+    },
+    "PAGES": {
+      "TEXT": "الصفحات"
+    },
+    "AUTHENTICATION": {
+      "TEXT": "المصادقة",
+      "LIST": {
+        "BASIC": "أساسي",
+        "COVER": "التغطية",
+        "SIGNIN": "تسجيل الدخول",
+        "SIGNUP": "اشتراك",
+        "PASSWORDRESET": "إعادة تعيين كلمة المرور",
+        "PASSWORDCREATE": "إنشاء كلمة المرور",
+        "LOCKSCREEN": "اقفل الشاشة",
+        "LOGOUT": "تسجيل خروج",
+        "SUCCESSMESSAGE": "نجاح رسالة",
+        "TWOSTEPVERIFICATION": "التحقق بخطوتين",
+        "ERRORS": "أخطاء",
+        "404BASIC": "404 أساسي",
+        "404COVER": "404 غلاف",
+        "404ALT": "404 بديل",
+        "500": "500",
+        "OFFLINE": "الصفحة غير المتصلة"
+      }
+    },
+    "PAGES": {
+      "TEXT": "الصفحات",
+      "LIST": {
+        "STARTER": "بداية",
+        "PROFILE": "الملف الشخصي",
+        "SIMPLEPAGE": "صفحة بسيطة",
+        "SETTINGS": "إعدادات",
+        "TEAM": "فريق",
+        "TIMELINE": "الجدول الزمني",
+        "FAQS": "أسئلة وأجوبة",
+        "PRICING": "التسعير",
+        "GALLERY": "صالة عرض",
+        "MAINTENANCE": "اعمال صيانة",
+        "COMINGSOON": "قريبا",
+        "SITEMAP": "خريطة الموقع",
+        "SEARCHRESULTS": "نتائج البحث",
+        "PRIVACYPOLICY": "سياسة الخصوصية",
+        "TERMS&CONDITIONS": "الشروط والأحكام",
+        "BLOG": "مدونة",
+        "BLOGLIST": "عرض القائمة",
+        "BLOGOVERVIEW": "نظرة عامة",
+        "BLOGGRID": "عرض الشبكة"
+      }
+    },
+    "LANDING": {
+      "TEXT": "الهبوط",
+      "LIST": {
+        "ONEPAGE": "صفحة واحدة",
+        "NFTLANDING": "NFT الهبوط",
+        "JOB": "مهنة"
+      }
+    },
+    "COMPONENTS": {
+      "TEXT": "عناصر"
+    },
+    "BASEUI": {
+      "TEXT": "واجهة المستخدم الأساسية",
+      "LIST": {
+        "ALERTS": "تنبيهات",
+        "BADGES": "شارات",
+        "BUTTONS": "أزرار",
+        "COLORS": "الألوان",
+        "CARDS": "البطاقات",
+        "CAROUSEL": "دائري",
+        "DROPDOWNS": "هبوط قطرة",
+        "GRID": "جريد",
+        "IMAGES": "الصور",
+        "TABS": "نوافذ التبويب",
+        "ACCORDION&COLLAPSE": "الأكورديون والانهيار",
+        "MODALS": "الوسائط",
+        "OFFCANVAS": "فكان",
+        "PLACEHOLDERS": "العناصر النائبة",
+        "PROGRESS": "تقدم",
+        "NOTIFICATIONS": "إشعارات",
+        "MEDIAOBJECT": "كائن الوسائط",
+        "EMBEDVIDEO": "تضمين الفيديو",
+        "TYPOGRAPHY": "الطباعة",
+        "LISTS": "القوائم",
+        "LINKS": "الروابط",
+        "GENERAL": "عام",
+        "RIBBONS": "شرائط",
+        "UTILITIES": "خدمات"
+      }
+    },
+    "ADVANCEUI": {
+      "TEXT": "واجهة المستخدم المتقدمة",
+      "LIST": {
+        "SWEETALERTS": "تنبيهات حلوة",
+        "NESTABLELIST": "قائمة عش",
+        "SCROLLBAR": "شريط التمرير",
+        "ANIMATION": "الرسوم المتحركة",
+        "TOUR": "رحلة",
+        "SWIPERSLIDER": "سويبر سلايدر",
+        "RATTINGS": "التقييمات",
+        "HIGHLIGHT": "تسليط الضوء",
+        "SCROLLSPY": "ScrollSpy"
+      }
+    },
+    "WIDGETS": {
+      "TEXT": "الحاجيات"
+    },
+    "FORMS": {
+      "TEXT": "نماذج",
+      "LIST": {
+        "BASICELEMENTS": "العناصر الأساسية",
+        "FORMSELECT": "حدد النموذج",
+        "CHECKBOXS&RADIOS": "مربعات الاختيار وأجهزة الراديو",
+        "PICKERS": "جامعي",
+        "INPUTMASKS": "أقنعة الإدخال",
+        "ADVANCED": "متقدم",
+        "RANGESLIDER": "نطاق المنزلق",
+        "VALIDATION": "تصديق",
+        "WIZARD": "ساحر",
+        "EDITORS": "المحررين",
+        "FILEUPLOADS": "تحميلات الملف",
+        "FORMLAYOUTS": "تخطيطات النموذج"
+      }
+    },
+    "TABLES": {
+      "TEXT": "الجداول",
+      "LIST": {
+        "BASICTABLES": "الجداول الأساسية",
+        "GRIDJS": "شبكة شبيبة",
+        "LISTJS": "قائمة شبيبة",
+        "DATATABLES": "جداول البيانات"
+      }
+    },
+    "CHARTS": {
+      "TEXT": "الرسوم البيانية",
+      "LIST": {
+        "APEXCHARTS": "أبكسشارتس",
+        "LINE": "خط",
+        "AREA": "منطقة",
+        "COLUMN": "عمودي",
+        "BAR": "شريط",
+        "MIXED": "مختلط",
+        "TIMELINE": "الجدول الزمني",
+        "RANGEAREA": "منطقة النطاق",
+        "FUNNEL": "قمع",
+        "SLOPE": "ميل",
+        "CANDLSTICK": "شمعدان",
+        "BOXPLOT": "مربع مؤامرة",
+        "BUBBLE": "فقاعة",
+        "SCATTER": "مبعثر",
+        "HEATMAP": "خريطة الحرارة",
+        "TREEMAP": "خريطة شجرة",
+        "PIE": "فطيرة",
+        "RADIALBAR": "شعاعي",
+        "RADAR": "رادار",
+        "POLARAREA": "المنطقة القطبية",
+        "CHARTJS": "تشارتجس",
+        "ECHARTS": "الصدى"
+      }
+    },
+    "ICONS": {
+      "TEXT": "أيقونات",
+      "LIST": {
+        "REMIX": "ريمكس",
+        "BOXICONS": "بوكسيكونس",
+        "MATERIALDESIGN": "تصميم المواد",
+        "LINEAWESOME": "خط رائع",
+        "FEATHER": "ريشة",
+        "CRYPTOSVG": "تشفير SVG"
+      }
+    },
+    "MAPS": {
+      "TEXT": "خرائط",
+      "LIST": {
+        "GOOGLE": "جوجل",
+        "VECTOR": "المتجه",
+        "LEAFLET": "منشور"
+      }
+    },
+    "MULTILEVEL": {
+      "TEXT": "متعدد المستويات",
+      "LIST": {
+        "LEVEL1": {
+          "1": "المستوى 1.1",
+          "2": "المستوى 1.2",
+          "LEVEL2": {
+            "1": "المستوى 2.1",
+            "2": "المستوى 2.2"
+          }
+        }
+      }
+    }
+  },
+
+  "general": {
+    "message": {
+      "successProccess": "تمت العملية بنجاح",
+      "failProccess": "فشلت العملية",
+      "NotFound": "غير موجود",
+      "successLogin": "تم تسجيل الدخول بنجاح",
+      "filedIdRequired": "هذا الحقل مطلوب",
+      "areyouSureDelete": "هل أنت متأكد أنك تريد الحذف؟"
+    },
+    "table": {
+      "name": "الاسم",
+      "isActive": "هل نشط",
+      "lastModificationTime": "آخر تعديل",
+      "pFrom": "من",
+      "item": "عنصر",
+      "search": "بحث",
+      "noData": "لا توجد بيانات متاحة",
+      "sort": "ترتيب",
+      "log": "السجل",
+      "filter": "تصفية",
+      "notSelect": "لم يتم التحديد",
+      "notes": "ملاحظات",
+      "all": "كل ",
+      "nameAr": "الاسم بالعربية",
+      "nameEn": "الاسم بالانجليزية",
+      "creationTime": "وقت الإنشاء"
+    },
+    "action": {
+      "register": "تسجيل",
+      "edit": "تعديل",
+      "save": "حفظ",
+      "delete": "حذف",
+      "close": "إغلاق",
+      "filter": "فلاتر ابحث ",
+      "clear": "مسح",
+      "export": "  تصدير",
+      "xlxs": "    تصدير xlsx",
+      "pdf": " تصدير pdf",
+
+      "search": "بحث",
+      "addNew": "إضافة جديد",
+      "run": "تشغيل",
+      "back": "رجوع"
+    },
+    "permission": {
+      "view": "روية",
+      "edit": "تعديل",
+      "delete": "حذف",
+      "register": "تسجيل",
+      "save": "حفظ",
+      "changeStatus": "تغيير الحالة",
+      "changeText": "تغيير النص",
+      "setDefault": "هل افتراضى",
+      "assignPermission": "إضافى لاذن",
+      "search": "بحث",
+      "serachadvanced": "بحث متقدم",
+      "openreport": "فتح التقرير",
+      "changePassword": "تغيير كلمة المرور",
+      "loginAs": "الدخول ك",
+      "unUserLock": "الغاء القفل",
+      "addField": " اضافة حقل",
+      "advancedSearch": "بحث متقدم",
+      "addToLanguages": "تحديث اللغة",
+      "print": "طباعة",
+      "lightMode": "الوضع المضى",
+      "addGallary": "إضافى صور",
+      "userLock": "قفل مستخدم",
+      "resetPassword": "تغيير كلمة المرور",
+      "export": "تصدير"
+    }
+  },
+  "layout": {
+    "sidebar": {
+      "new": "جديد",
+      "task": "المهام اليومية",
+      "hr": "الموارد البشرية",
+      "client": "إدارة العملاء",
+      "orders": "إدارة الطلبات",
+      "marketing": "إدارة التسويق",
+      "finance": "المالية",
+      "security": "إدارة المستخدمين",
+      "securityManagement": "إدارة المستخدمين",
+      "basicData": "البيانات الأساسية",
+      "messages": "الرسائل الداخلية",
+      "statistics": "الاحصائيات",
+      "crm": "إدارة علاقات العملاء (crm)",
+      "leads": "العملاء المحتملين"
+    },
+    "topbar": {
+      "quickLinks": "روابط سريعة",
+      "newOrder": "طلب جديد",
+      "logOut": "تسجيل الخروج",
+      "messages": "الرسائل الداخلية",
+      "profile": "ملفي الشخصي",
+      "welcome": "مرحبًا",
+      "notifications": "الإشعارات",
+      "new": "جديد",
+      "alerts": "التنبيهات",
+      "markALLSee": "رؤيه الكل"
+    }
+  },
+  "auth": {
+    "login": {
+      "username": "اسم المستخدم",
+      "password": "كلمة المرور",
+      "signin": "تسجيل الدخول"
+    }
+  },
+  "task": {
+    "tasklist": {
+      "title": "  المهام اليومية",
+      "allTask": "جميع المهام",
+      "complete": "مكتملة",
+      "review": "قيد المراجعة",
+      "inproccess": "قيد التنفيذ",
+      "inTests": "في الاختبارات",
+      "wait": "لم تبدأ",
+      "subject": "الاسم",
+      "dateStart": "تاريخ  البداية",
+      "dateEnd": "تاريخ الاستحقاق",
+      "priority": "الأولوية",
+      "status": "الحالة",
+      "taskMasterAssignees": "المكلفون",
+      "id": "رقم المهمة",
+      "low": "منخفضة",
+      "meduim": "متوسطة",
+      "high": "مرتفعة",
+      "urgent": "عاجلة",
+      "notStart": "لم تبدأ",
+      "inProgress": "قيد التنفيذ",
+      "testing": "قيد الاختبار",
+      "awatingFeddBack": "بانتظار الملاحظات",
+      "addNewTask": "مهمة جديدة",
+      "titleOperation": "المهمة",
+      "taskMasterFollowers": "المتابعون",
+      "filter": "بحث",
+      "tasksList": "قائمة المهام",
+      "progress": "مكتمل",
+      "allTasks": "كل المهام",
+      "finished": "مكتملة"
+    },
+    "taskDetail": {
+      "title": "تفاصيل المهمة"
+    },
+    "todo": {
+      "title": "لائحة المهام",
+      "assignUsers": "المكلفون",
+      "members": "الأعضاء",
+      "add": "إضافة",
+      "cancel": "إلغاء",
+      "assigned": "مُكلف",
+      "creatTask": "إنشاء مهمة",
+      "subject": "الموضوع",
+      "close": "إغلاق",
+      "save": "حفظ",
+      "status": "الحالة",
+      "trackTask": "تتبع المهمة",
+      "timeTracking": "تتبع الوقت",
+      "creationTime": "وقت الإنشاء",
+      "stop": "إيقاف",
+      "start": "بدء",
+      "tasksNo": "عدد المهام",
+      "tasksTitle": "عنوان المهمة",
+      "priority": "الأولوية",
+      "dueDate": "تاريخ الاستحقاق",
+      "assignedTo": "المُكلف",
+      "assignedMember": "العضو المكلف",
+      "followerMember": "عضو المتابعة",
+      "taskMasterFollower": "أعضاء المتابعة",
+      "actions": "الإجراءات",
+      "taskName": "اسم المهمة",
+      "dateVisit": "تاريخ الزيارة",
+      "orderId": "رقم الطلب",
+      "statusName": "اسم الحالة",
+      "inProgress": "قيد التنفيذ",
+      "finished": "مكتملة",
+      "finishedAnother": "إنهاء من شخص اخر",
+      "notStart": "لم تبدأ",
+      "finishTask": "إنهاء المهمة",
+      "orderNotFound": "الطلب غير موجود",
+      "dateStart": "الفترة",
+      "followerTo": "متابعة إلى",
+      "hr": "س",
+      "min": "د",
+      "sort": "ترتيب",
+      "byID": "بالرقم",
+      "byName": "بالاسم",
+      "allTasks": "كل المهام",
+      "assignAnother": "إنهاء أخرى",
+      "addTasks": "إضافة مهام",
+      "reAssignUsers": "إعادة تخصيص المستخدمين",
+      "assign": "تخصيص",
+      "taskPeriod": "مده المهمة",
+      "assignTo": "تعيين إلى"
+    },
+    "jobSchedule": {
+      "title": "جدولة المهام",
+      "titleOperation": "الجدولة",
+      "Daily": "يوميًا",
+      "Hourly": "كل ساعة",
+      "Weekly": "أسبوعيًا",
+      "Monthly": "شهريا",
+
+      "SpecificTime": "وقت محدد",
+      "OneTime": "مرة واحدة",
+      "Cron": "كرون",
+      "jobName": "اسم المهمة",
+      "Date": "التاريخ",
+      "jobType": "نوع المهمة",
+      "lastRunDateTime": "آخر تشغيل",
+      "runAtSpecificTime": "تشغيل في وقت محدد",
+      "addNew": "  مهمة جديدة",
+      "shiftName": "الشفت",
+      "recurringIntervals": "كل (افتراضى1)",
+      "days": "الايام",
+      "Sunday": "الأحد",
+      "Monday": "الاثنين",
+      "Tuesday": "الثلاثاء",
+      "Wednesday": "الأربعاء",
+      "Thursday": "الخميس",
+      "Friday": "الجمعة",
+      "Saturday": "السبت",
+      "runTask": "هل انت متاكد من تشغل الجدولة"
+    },
+    "taskShift": {
+      "title": "شفتات المهام اليومية",
+      "titleOperation": "الشفت",
+      "addNewShift": "إضافة شفت جديد",
+      "times": "أوقات العمل",
+      "assignUsers": "موظفو المهام",
+      "maxTaskForEmployee": "أقصى عدد مهام (للموظف)",
+      "shiftFollowers": "متابعو الشفت"
+    }
+  },
+  "hr": {
+    "employee": {
+      "title": "الموظفون",
+      "titleOperation": "الموظف",
+      "employeeName": "الاسم",
+      "mobile": "الجوال",
+      "employeeTypeName": "نوع الموظف",
+      "employeeGroupName": "مجموعة الموظف",
+      "employeeTeam": "فريق الموظف",
+      "managment": "الإدارة",
+      "customerService": "خدمة العملاء",
+      "employeeType": "نوع الموظف",
+      "email": "البريد الإلكتروني",
+      "newEmployee": "موظف جديد",
+      "allEmployee": "جميع الموظفين",
+      "active": "نشط",
+      "noActive": "غير نشط",
+      "isActive": "الحالة",
+      "basicInfo": "البيانات الاساسية",
+      "dayWork": "أيام العمل",
+      "sunday": "الأحد",
+      "monday": "الاثنين",
+      "tuesday": "الثلاثاء",
+      "wednesday": "الأربعاء",
+      "thursday": "الخميس",
+      "friday": "الجمعة",
+      "saturday": "السبت",
+      "editEmployee": "تعديل موظف",
+      "addEmployee": "إضافة موظف",
+      "dayOff": "أيام العطلات"
+    },
+    "team": {
+      "title": "الفرق",
+      "titleOperation": "فرقة",
+      "cityName": "المدينة",
+      "categoryName": "فئات الخدمات",
+      "workTimeName": "الاوقات ",
+      "dayOff": "أيم العطلات "
+    },
+    "teamEmployee": {
+      "title": "فرق الموظفين"
+    },
+    "workTime": {
+      "title": "جداول العمل"
+    },
+    "taskShift": {
+      "title": "شفتات المهام اليومية",
+      "titleOperation": "الشفت",
+      "addNewShift": "إضافة شفت جديد",
+      "times": "أوقات العمل",
+      "assignUsers": "موظفو المهام",
+      "maxTaskForEmployee": "أقصى عدد مهام (للموظف)",
+      "shiftFollowers": "متابعو الشفت"
+    },
+    "employeeHoliday": {
+      "title": "الإجازات",
+      "titleOperation": "الإجازة",
+      "employees": "الموظف",
+      "date": "التاريخ",
+      "note": "ملاحظة",
+      "addNewHoliday": "إضافة إجازة",
+      "employeeName": "الموظف",
+      "shiftFrom": "الشفت من",
+      "shiftTo": "الشفت إلى",
+      "dateFrom": "التاريخ من",
+      "dateTo": "التاريخ إلى"
+    },
+    "employeeChangeShift": {
+      "title": "تغيير الشفتات",
+      "titleOperation": "الشفت",
+      "addNew": "إضافة جديد"
+    }
+  },
+  "clientManagement": {
+    "client": {
+      "title": "العملاء"
+    }
+  },
+  "orderManagement": {
+    "order": {
+      "title": "الطلبات",
+      "titlePending": "الطلبات المعلقة",
+      "titleRecall": "طلبات اعادة الاتصال",
+      "allOrder": "جميع الطلبات",
+      "newOrder": "طلبات جديدة",
+      "map": "خرايطه طلبات (الفرق)",
+      "all": "كل الطلبات",
+      "pending": "إنتظار",
+      "finish": "إنهاء",
+      "cancelled": "إلغاء",
+      "orderCode": "الكود",
+      "createdDate": "تارخ الانشاء",
+      "creationUser": "  المنشى",
+      "cityName": "المدينة",
+      "districtName": "المنطقة",
+      "status": "الحالة",
+      "agentName": "العميل",
+      "channelName": "القنوات",
+      "mobile": "رقم الجوال",
+      "assignTo": "اسناد الى ",
+      "visitDate": "تاريخ الزيارة",
+      "workTimes": "الاوقات",
+      "services": "الخدمات",
+      "nothing": "لا يوجد",
+      "cancel": "إلغاء",
+      "reopen": "إعادة فتح",
+      "free": "مجانى",
+      "finished": "منتهى",
+      "serviceAfterSale": "خدمة ما بعد البيع",
+      "creationDate": "تاريخ الانشاء",
+      "finishedDate": "تاريخ الانتهاء",
+      "Recall": "إعادة الاتصال",
+      "RecallMessage": "هل انت متاكد من احالة الى معاودة الاتصال؟",
+      "callCounter": "عدد معاودة الاتصال",
+      "RecallMessageCount": "تم الاتصال بالعميل أكثر من",
+      "RecallMessageCount2": "سيتم تحويل الطلب للاستفسار.",
+      "times": "مرات"
+    }
+  },
+  "marketingManagement": {
+    "marketingCampaigns": {
+      "title": "حملات التسويق"
+    }
+  },
+  "messages": {
+    "mailbox": {
+      "title": "البريد الوارد"
+    }
+  },
+  "financeManagement": {
+    "expensesCategory": {
+      "title": "فئات المصروفات"
+    },
+    "expenses": {
+      "title": "المصروفات"
+    },
+    "paymentType": {
+      "title": "طرق الدفع"
+    }
+  },
+  "securityManagement": {
+    "user": {
+      "title": "المستخدمون",
+      "Admin": "مدير",
+      "OperationSupervisor": "مشرف العمليات",
+      "TeamLeader": "قائد الفريق",
+      "SalesMarketingSupervisor": "مشرف المبيعات والتسويق",
+      "HRManager": "مدير الموارد البشرية",
+      "SalesMarketingSpecialist": "اختصاصي مبيعات وتسويق",
+      "Marketing": "التسويق",
+      "Accountant": "محاسب",
+      "Other": "أخرى",
+      "userCode": "الكود",
+      "userTypeName": "النوع",
+      "employeeCode": "كود الموظف",
+      "lastLogin": "أخر دخول",
+      "loginAs": "الدخول ك",
+      "changePassword": "تغيير كلمة المرور",
+      "name": "الإسم",
+      "mobile": "الجوال",
+      "userName": "إسم المستخدم",
+      "employeeName": "إسم الموظفس",
+      "userType": "نوع المستخدم",
+      "roleName": "الصلاحية",
+      "basicInfo": "البيانات الاساسية",
+      "password": "كلمة المرور",
+      "editUser": "تعديل مستخدم",
+      "addUser": "إضافة مستخدم",
+      "roles": "الصلاحية",
+      "rePassword": "إعادة كلمة المرور",
+      "resetPassword": "تغيير كلمة المرور",
+      "rePasswordAndPasswordNotEqual": "كلمة المرور غير متطابقتين",
+      "active": "نشط",
+      "noActive": "غير نشط"
+    },
+    "role": {
+      "title": "صلاحية",
+      "titleOperation": "الصلاحية",
+      "nameDb": "الاسم (db)"
+    },
+    "permission": {
+      "title": "الصلاحيات",
+      "titleOperation": "الصلاحية",
+      "updatePermission": "تعديل الصلاحية"
+    }
+  },
+  "basicData": {
+    "whatsAppSetting": {
+      "title": "إعدادت الواتس اب"
+    },
+    "emailSetting": {
+      "title": "إعدادت الايميل"
+    },
+
+    "setupData": {
+      "title": "البيانات الاساسية"
+    },
+    "city": {
+      "title": "المدن",
+      "titleOperation": "مدينة",
+      "lat": "Lat",
+      "lng": "Lng",
+      "radius": "Radius",
+      "districts": "المناطق",
+      "district": "منطقة",
+      "addCity": "إضافة مدينة",
+      "addDistrict": "إضافة منطقة"
+    },
+    "returnReason": {
+      "title": "أسباب الإرجاع"
+    },
+    "cancelReason": {
+      "title": "أسباب الإلغاء",
+      "titleOperation": "سبب إلغاء"
+    },
+    "serviceType": {
+      "title": "أنواع الخدمات",
+      "titleOperation": "نوع خدمة"
+    },
+    "service": {
+      "title": "الخدمات"
+    },
+    "serviceCategory": {
+      "title": "الفئات",
+      "titleOperation": "فئة",
+      "services": "الخدمات",
+      "service": "خدمة",
+      "addServiceCategory": "إضافة فئة",
+      "addService": "إضافة خدمة",
+      "price": "السعر",
+      "serviceTypeCode": "نوع الخدمة",
+      "timeCount": "عدد لمواعيد",
+      "description": "الوصف",
+      "isMostWanted": "الاكثر طلباً"
+    },
+    "channel": {
+      "title": "القنوات",
+      "symbol": "الرمز",
+      "siteUrl": "اللينك",
+      "titleOperation": "قناة"
+    },
+    "generalSetting": {
+      "title": "الإعدادات",
+      "tasks": "المهام اليومية",
+      "orders": "الطلبات",
+      "taskPerfix": "بادئة المهام",
+      "orderPerfix": "بادئة الطلبات"
+    },
+    "systemSchedule": {
+      "title": "جدوله النظام",
+      "tasks": "الموديل",
+      "task": "التاسكات",
+      "order": "الطلب",
+      "crm": "علاقات العملاء",
+      "taskShift": "شيفتات التاسكات",
+      "agentCareJob": "العملاء",
+      "assignOrderJob": "إسناد الطلبات ",
+      "campaignAgentsJob": "حمله تسوقيه",
+      "reviewJob": "تقييم الطلبات  ",
+      "moduleType": "النوع",
+      "eventSchedule": "الحدث",
+      "visitJob": "تاريخ الزيارة",
+      "parameter": "القيمه(الشيفت-الخ)"
+    }
+  },
+  "client": {
+    "client": {
+      "title": "العملاء",
+      "titleOperation": "عميل",
+      "mobile": "الموبيل",
+      "cityName": "المدينة",
+      "channelName": "المصدر ",
+      "name": "الاسم",
+      "email": "الايميل",
+      "note": "الملاحظات",
+      "editClient": "تعديل عميل",
+      "addClient": "إضافة عميل",
+      "status": "الحالة",
+      "profile": "ملف العميل"
+    }
+  },
+  "crm": {
+    "leads": {
+      "title": "العملاء المحتملين",
+      "titleOperation": "العملاء المحتملين",
+      "addLeads": "إضافة عملاء محتملين",
+      "editLeads": "تعديل عملاء محتملين",
+      "mobile": "الهاتف",
+      "cityName": "المدينة",
+      "channelName": "القناة ",
+      "leadType": "نوع العملاء المحتملين",
+      "name": "الإسم",
+      "email": "البريد الالكتروني",
+      "Proposed": "عميل مقترح",
+      "Inquiry": "عميل استفسار"
+    },
+    "serviceAfterSale": {
+      "title": "خدمة ما بعد البيع",
+      "titleOperation": "خدمة ما بعد البيع",
+      "addReview": "إضافة تقييم"
+    },
+    "reviewQuestion": {
+      "title": "أسئلة تقييم",
+      "titleOperation": "سؤال تقييم",
+      "isSendClient": "عرض على الموقع",
+      "sort": "الترتيب",
+      "answerType": "أنواع الإجابة",
+      "items": "العناصر (افصل بينهم بالفواصل)",
+      "point": "الدرجة"
+    },
+    "reviewAnswer": {
+      "title": "إجابة تقييم",
+      "titleOperation": "إجابة تقييم",
+      "answerType": "أنواع الإجابة",
+      "star": "نجم",
+      "checkBox": "مربع اختيار",
+      "text": "نص",
+      "point": "الدرجة",
+      "sort": "الترتيب"
+    },
+    "clientReview": {
+      "title": "تقييم العملاء",
+      "titleOperation": "سؤال تقييم",
+      "clientName": "اسم العميل",
+      "orderId": "رقم الطلب",
+      "clientReviewFinalResultNameAr": "نتيجة تقييم",
+      "note": "الملاحظات"
+    },
+    "clientReviewFinalResult": {
+      "title": "نتائج تقييم",
+      "titleOperation": "نتيجة تقييم",
+      "scoreFrom": "الدرجة من",
+      "scoreTo": "الدرجة إلى",
+      "color": "اللون"
+    },
+    "clientReviewActionDoing": {
+      "title": "نتائج  تقييم",
+      "titleOperation": "نتيجة تقييم"
+    },
+    "reviewstatistics": {
+      "title": "إحصائيات تقييم",
+      "titleOperation": "إحصائيات تقييم"
+    },
+    "crmSetting": {
+      "title": "إعدادات CRM",
+      "titleOperation": "إعدادات CRM"
+    }
+  },
+  "statistics": {
+    "orderReview": {
+      "title": "أحصائية تقييم الطلبات",
+      "titleOperation": "تقييم طلب",
+      "cities": "المدن",
+      "teams": "الفرق",
+      "dateReview": "التاريخ ",
+      "evaluationQualityService": "Evaluation Quality Service",
+      "areSatisfiedTeamTreatment": "Team treating you well?",
+      "howPunctualYou": "How punctual were you?",
+      "wouldLikeDealAgain": "Work with us again?"
+    },
+    "orderManager": {
+      "title": "تحليل الطلبات",
+      "titleOperation": "تحليل الطلبات"
+    },
+    "orderDaily": {
+      "title": "الطلبات اليومية",
+      "titleOperation": "طلب يومى"
+    }
+  }
+}
